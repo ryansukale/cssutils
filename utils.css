@@ -80,7 +80,11 @@
 .i{font-style:italic;}
 .u{text-decoration:underline;}
 
+.fs-s{font-size:small;}
 .fs-m{font-size:medium;}
+.fs-20px{font-size:20px;}
+.fs-30px{font-size:30px;}
+.fs-40px{font-size:40px;}
 
 .lh-20px{line-height:20px;}
 .lh-30px{line-height:30px;}
