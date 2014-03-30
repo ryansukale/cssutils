@@ -33,6 +33,16 @@
 .mr-10{margin-right:10px;}
 .mr-20{margin-right:20px;}
 
+.m-1{margin:1px;}
+.m-2{margin:2px;}
+.m-3{margin:3px;}
+.m-4{margin:4px;}
+.m-5{margin:5px;}
+.m-6{margin:6px;}
+.m-7{margin:7px;}
+.m-8{margin:8px;}
+.m-9{margin:9px;}
+.m-10{margin:10px;}
 /*--Margin styles--*/
 
 
@@ -69,6 +79,17 @@
 .pr-8{padding-right:8px;}
 .pr-10{padding-right:10px;}
 .pr-20{padding-right:20px;}
+
+.p-1{padding:1px;}
+.p-2{padding:2px;}
+.p-3{padding:3px;}
+.p-4{padding:4px;}
+.p-5{padding:5px;}
+.p-6{padding:6px;}
+.p-7{padding:7px;}
+.p-8{padding:8px;}
+.p-9{padding:9px;}
+.p-10{padding:10px;}
 /*--Padding styles--*/
 
 /* Layout & Structure */
