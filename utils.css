@@ -95,6 +95,7 @@
 /* Layout & Structure */
 .oa{overflow:auto;}
 .inb{display:inline-block;}
+.db{display:block;}
 
 /* Text */
 .b{font-weight:bold;}
@@ -143,7 +144,7 @@
 .h-80px{height:80px;}
 .h-90px{height:90px;}
 .h-100px{height:100px;}
-/*--Widht and Height--*/
+/*--Width and Height--*/
 
 /* Others */
 .cp{cursor:pointer;}
