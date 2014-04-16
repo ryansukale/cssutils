@@ -117,16 +117,14 @@
 .lh-90px{line-height:90px;}
 .lh-100px{line-height:100px;}
 
-
-/* Alignment */
+/* Text alignment */
 .la{text-align:left;}
 .ra{text-align:right;}
-.c{text-align:center;}
-.centered{
-	margin-left:auto;
-	margin-right:auto;
-	text-align:center;
-}
+.ca{text-align:center;}
+
+/* Block level horizontal alignment */
+.c{margin-left:auto;margin-right:auto;}
+.cac{margin-left:auto;margin-right:auto;text-align:center;}
 
 /*Widht and Height*/
 .w-800px{width:800px;}
