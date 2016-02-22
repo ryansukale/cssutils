@@ -6,6 +6,16 @@
 .no-bg{background:none;}
 .bdr-n{border:none;}
 
+/* Layout & Structure */
+.oa{overflow:auto;}
+.inb{display:inline-block;}
+.db{display:block;}
+
+/* Text */
+.b{font-weight:bold;}
+.i{font-style:italic;}
+.u{text-decoration:underline;}
+
 /* Text alignment */
 .la{text-align:left;}
 .ra{text-align:right;}
@@ -273,16 +283,6 @@
 .pr-10{padding-right:10px;}
 .pr-20{padding-right:20px;}
 /*--Padding styles--*/
-
-/* Layout & Structure */
-.oa{overflow:auto;}
-.inb{display:inline-block;}
-.db{display:block;}
-
-/* Text */
-.b{font-weight:bold;}
-.i{font-style:italic;}
-.u{text-decoration:underline;}
 
 .fz-1pt2em {font-size: 1.2em}
 .fz-1pt3em {font-size: 1.3em}
